@@ -18,4 +18,4 @@
 </p>
 </br>
 
-This is my javascript journey. I learned most of things from the book but I also used other sources. 
+> This is my javascript journey. I learned most of things from the book but I also used other sources. 
